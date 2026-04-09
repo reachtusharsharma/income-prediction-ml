@@ -32,7 +32,7 @@ Features included:
 The original implementation is preserved in the folder:
 
 ```
-legacy_r_shiny_project/
+r_version
 ```
 
 ---
